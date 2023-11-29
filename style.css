@@ -1,0 +1,42 @@
+﻿.middle-container {
+    text-align: center;
+    margin: 100px 0;
+}
+
+h1 {
+    font-size: 3.5rem;
+    color: #064663;
+    margin: 40px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+.robot-image {
+    max-width: 300px;
+    margin-bottom: 20px;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+.btn {
+    font-size: 1.2rem;
+    padding: 10px 30px;
+}
+
+.btn-primary {
+    background-color: #087BC7;
+    border-color: #087BC7;
+}
+
+    .btn-primary:hover {
+        background-color: #57B9F2;
+        border-color: #57B9F2;
+    }
